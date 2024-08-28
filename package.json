@@ -1,0 +1,11 @@
+{
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "homepage": "https://Kratika2613.github.io/YouTube-Clone"
+}
